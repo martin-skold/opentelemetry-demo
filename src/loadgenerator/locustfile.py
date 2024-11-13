@@ -141,7 +141,7 @@ class WebsiteUser(HttpUser):
         cart_item = {
             "item": {
                 "productId": product,
-                "quantity": random.choice([1, 2, 3, 4, 5, 10]),
+                "quantity": random.choice([1, 1, 1, 1, 1, 1, 2, 2 ,2, 3, 3, 4, 4, 5, 6, 7, 8, 9, 10, 10000]),
             },
             "userId": user,
         }

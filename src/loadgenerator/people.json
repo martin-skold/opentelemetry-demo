@@ -152,4 +152,21 @@
             "creditCardCvv": 682
         }
     }
+    {
+        "email": "suspicious@example.com",
+        "address": {
+            "streetAddress": "1200 Suspicious Road",
+            "zipCode": "10001",
+            "city": "New York",
+            "state": "NY",
+            "country": "United States"
+        },
+        "userCurrency": "USD",
+        "creditCard": {
+            "creditCardNumber": "1485-4803-8707-6666",
+            "creditCardExpirationMonth": 9,
+            "creditCardExpirationYear": 2025,
+            "creditCardCvv": 666
+        }
+    }
 ]
